@@ -1,5 +1,5 @@
 # Site settings
-course_name: History of Magic
+course_name: Pattern Recognition and Machine Intelligence 
 course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
 course_semester: "Spring 2021"
 
@@ -8,7 +8,7 @@ url: "http://xjqi.github.io/" # the base hostname & protocol for your site
 
 schoolname: "The Universiy of Hong Kong"
 schoolurl: "https://www.hku.hk/"
-twitter_username: username 
+twitter_username: @qi_xiaojuan 
 
 address: |
     Department of Eletrical and Electronic Engineering
