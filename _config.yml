@@ -14,6 +14,7 @@ address: |
     Department of Eletrical and Electronic Engineering
     The University of Hong Kong
     Hong Kong
+    The page is adapted from https://github.com/kazemnejad/jekyll-course-website-template 
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
